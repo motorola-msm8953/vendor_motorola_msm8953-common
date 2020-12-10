@@ -17,6 +17,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter ali sanders,$(TARGET_DEVICE)),)
+ifneq ($(filter ali albus sanders,$(TARGET_DEVICE)),)
 
 endif
